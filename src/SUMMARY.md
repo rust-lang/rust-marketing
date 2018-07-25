@@ -17,6 +17,7 @@
     - [For Go/Swift/Java/C# devs](pitches/background/typed.md)
 - [Comparisons](comparisons.md)
   - [Go](comparisons/go.md)
+  - [Java](comparisons/java.md)
   - [C++](comparisons/cpp.md)
   - [C](comparisons/c.md)
 - [Rebuttals](rebuttals.md)

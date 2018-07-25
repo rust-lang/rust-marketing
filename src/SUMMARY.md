@@ -3,7 +3,7 @@
 [Introduction](intro.md)
 - [Pitches](pitches.md)
   - [Rust](pitches/rust.md)
-    - [For engineers](pitches/rust/engieners.md)
+    - [For engineers](pitches/rust/engineers.md)
     - [For CTOs](pitches/rust/ctos.md)
   - [Rust 2018](pitches/rust-2018.md)
   - [Application areas](pitches/applications.md)

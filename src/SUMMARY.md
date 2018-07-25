@@ -15,6 +15,7 @@
     - [For C++ hackers](pitches/background/cpp.md)
     - [For JS/Python/Ruby devs](pitches/background/scripting.md)
     - [For Go/Swift/Java/C# devs](pitches/background/typed.md)
+  - [The Rust community](pitches/community.md)
 - [Comparisons](comparisons.md)
   - [Go](comparisons/go.md)
   - [C++](comparisons/cpp.md)

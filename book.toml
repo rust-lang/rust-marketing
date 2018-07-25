@@ -1,0 +1,5 @@
+[book]
+authors = ["Aaron Turon"]
+multilingual = false
+src = "src"
+title = "Rust Marketing Handbook"

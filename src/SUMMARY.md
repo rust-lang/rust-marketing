@@ -21,6 +21,7 @@
   - [C](comparisons/c.md)
 - [Rebuttals](rebuttals.md)
   - [Only for maximal speed](rebuttals/only-speed.md)
+  - [Only for systems programming](rebuttals/only-systems.md)
   - [Only for avoiding GC](rebuttals/only-gc.md)
   - [Tied to Mozilla](rebuttals/mozilla.md)
 - [Notable achievements](achievements.md)

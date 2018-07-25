@@ -9,6 +9,8 @@
   - [Application areas](pitches/applications.md)
     - [Network services](pitches/applications/net.md)
     - [The web](pitches/applications/web.md)
+    - [Systems programming](pitches/applications/systems.md)
+    - [C-compatible libraries](pitches/applications/libraries.md)
     - [Embedded devices](pitches/applications/embedded.md)
     - [Command-line apps](pitches/applications/cli.md)
   - [Tailored by language background](pitches/background.md)

@@ -12,6 +12,7 @@
     - [Embedded devices](pitches/applications/embedded.md)
     - [Command-line apps](pitches/applications/cli.md)
   - [Tailored by language background](pitches/background.md)
+    - [For C hackers](pitches/background/c.md)
     - [For C++ hackers](pitches/background/cpp.md)
     - [For JS/Python/Ruby devs](pitches/background/scripting.md)
     - [For Go/Swift/Java/C# devs](pitches/background/typed.md)

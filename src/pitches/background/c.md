@@ -1,1 +1,1 @@
-# For C hackers
+# For C developers

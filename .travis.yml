@@ -3,7 +3,7 @@ dist: trusty
 language: rust
 
 before_install:
-  - cargo install mdbook --vers '0.1.8' --debug --force
+  - cargo install mdbook --vers '0.4.5'
 
 script:
   - mdbook build
